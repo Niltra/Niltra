@@ -25,6 +25,6 @@
 
 
 # Social Media
-<a href="www.linkedin.com/in/david-navas-a85a62309">
+<a href="https://www.linkedin.com/in/david-navas-a85a62309">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
