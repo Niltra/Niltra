@@ -3,6 +3,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+### Sobre mí
+Desarrollador backend especializado en Java y Spring Boot, comprometido con crear soluciones limpias, eficientes y escalables. Aplico buenas prácticas, testing automatizado y documentación clara en todos mis proyectos.
+
+🌿 Disfruto colaborar en equipos que valoran la calidad y el aprendizaje mutuo.
+🤝 Me apasiona compartir conocimientos y ayudar a resolver problemas complejos.
+💬 Siempre abierto a conversaciones técnicas y nuevos retos profesionales.
+
+Fuera del mundo tech, valoro la curiosidad, la disciplina y el crecimiento constante como base para alcanzar metas.
+
+<p>📬 Contáctame en: <a href="mailto:navasparejo14@hotmail.com" style="color:#4CAF50; text-decoration:none; font-weight:bold;">navasparejo14@gmail.com</a></p>
+
+
 # 💻Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
