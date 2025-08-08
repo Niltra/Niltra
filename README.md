@@ -52,5 +52,4 @@ Fuera del mundo tech, valoro la curiosidad, la disciplina y el crecimiento const
 # Connect with me 🤝
 <a href="https://www.linkedin.com/in/david-navas-a85a62309">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 </a>
