@@ -1,22 +1,20 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niltra&label=Profile%20Views&color=ED8B00&style=flat-square" alt="Profile Views" />
-</div>
-
-<div align="center">
   <h1>👋 Hello, I'm David</h1>
-  <a href="https://github.com/Niltra">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ED8B00&center=true&vCenter=true&width=800&lines=Backend+Engineer;Data+Engineering+Enthusiast;Building+Scalable+Microservices;Automating+Data+Pipelines" alt="Typing SVG" />
-  </a>
+  <h3>Backend Engineer & Data Engineering Enthusiast</h3>
+  <p><i>Building scalable systems, resilient APIs, and data-driven pipelines.</i></p>
 </div>
 
 ---
 
-### 🏆 GitHub Achievements
-<div align="center">
-  <a href="https://github.com/Niltra">
-    <img src="https://github-profile-trophy.vercel.app/?username=Niltra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
+### 🔭 Current Focus & Trajectory
+*   **Building:** Resilient microservices and automated end-to-end data pipelines.
+*   **Specializing in:** Deepening my expertise in **Artificial Intelligence & Big Data** architectures to build smarter applications.
+*   **Targeting:** Expanding my engineering career towards the European tech ecosystem (DACH region) in the coming years.
+
+---
+
+### 🧠 Engineering Philosophy
+I treat code as a tool to solve business bottlenecks. My focus is on **Clean Architecture**, **scalable microservices**, and **robust data orchestration**. I believe in writing testable, maintainable code and automating workflows to deliver reliable solutions that perform efficiently under load.
 
 ---
 
@@ -37,7 +35,6 @@
 ### 🛠️ Technical Arsenal
 
 <p align="center">
-  <i>Technologies I use to build robust solutions:</i><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,python,postgres,mongodb,docker,git,linux&perline=10" />
   </a>
@@ -45,32 +42,32 @@
 
 ---
 
-### 🐍 Contribution Graph Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niltra/Niltra/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niltra/Niltra/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niltra/Niltra/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 📊 Analytics & Consistency
+### 📊 Performance & Consistency
 
 <p align="center">
+  <!-- GitHub Stats Básicas -->
   <img src="https://github-readme-stats.vercel.app/api?username=Niltra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niltra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00" alt="Top Languages" width="48%" />
+  <!-- GitHub Streak (Constancia diaria) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niltra&theme=tokyonight&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-### ⚡ Beyond the Code
+### 🏆 Verified Certifications
 
-```java
-public class AboutMe {
-    public static void main(String[] args) {
-        System.out.println("When I'm away from the keyboard, I'm usually building custom PCs, trying to bake the perfect brownie, or hanging out with my tricolor cat, Yuki.");
-    }
-}
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-SQL_Bootcamp-000000?style=for-the-badge&logo=oracle&logoColor=white" height="30">&nbsp;
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-000000?style=for-the-badge&logo=google&logoColor=white" height="30">&nbsp;
+  <img src="https://img.shields.io/badge/Cisco-CCST_Cybersecurity-000000?style=for-the-badge&logo=cisco&logoColor=white" height="30">
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/david-navas-parejo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:navasparejo14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
