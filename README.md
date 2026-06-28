@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 Current Focus & Trajectory
-*   **Building:** Resilient microservices and automated end-to-end data pipelines.
+*   **Building:** Resilient microservices (SafeBank API) and automated end-to-end data pipelines.
 *   **Specializing in:** Deepening my expertise in **Artificial Intelligence & Big Data** architectures to build smarter applications.
 *   **Targeting:** Expanding my engineering career towards the European tech ecosystem (DACH region) in the coming years.
 
@@ -21,12 +21,12 @@ I treat code as a tool to solve business bottlenecks. My focus is on **Clean Arc
 ### 🚀 Featured Architectures
 
 #### 💾 1. Data Engineering: Scalable Pipelines
-**[Data Engineering Pipelines (DataTalks Zoomcamp)](#)**
+**[Data Engineering Pipelines (DataTalks Zoomcamp)](https://github.com/Niltra/data-engineering-zoomcamp)**
 > **Architecture:** Dockerized end-to-end data pipelines orchestrating ETL/ELT workflows into Data Lakes and Warehouses.
 > **Impact:** Automates massive dataset ingestion, eliminating manual overhead and providing highly available, clean data for business analytics.
 
 #### ⚙️ 2. Backend Development: Resilient Microservices
-**[Core REST API & Microservices Ecosystem](#)** *(Enlaza aquí tu repo de Backend)*
+**[SafeBank - Core REST API & Microservices](https://github.com/Niltra/SafeBank)**
 > **Architecture:** Clean Architecture implemented with Spring Boot, secured via Spring Security, and prepared for decoupled event-driven communication.
 > **Impact:** Reduces system coupling, ensures high availability, and optimizes API response times for seamless end-user experiences. 
 
@@ -45,9 +45,7 @@ I treat code as a tool to solve business bottlenecks. My focus is on **Clean Arc
 ### 📊 Performance & Consistency
 
 <p align="center">
-  <!-- GitHub Stats Básicas -->
   <img src="https://github-readme-stats.vercel.app/api?username=Niltra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00" alt="GitHub Stats" width="48%" />
-  <!-- GitHub Streak (Constancia diaria) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niltra&theme=tokyonight&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -64,7 +62,7 @@ I treat code as a tool to solve business bottlenecks. My focus is on **Clean Arc
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/david-navas-parejo">
+  <a href="TU_ENLACE_A_LINKEDIN_AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:navasparejo14@gmail.com">
