@@ -1,55 +1,102 @@
-<h3 align="center">
-  Welcome to David´s profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+# ⚡ David's Workspace
 
-### Sobre mí
-Desarrollador backend especializado en Java y Spring Boot, comprometido con crear soluciones limpias, eficientes y escalables. Aplico buenas prácticas, testing automatizado y documentación clara en todos mis proyectos.
+<p align="center">
+  <a href="https://github.com/Niltra">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ED8B00&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Data+Engineering+Enthusiast+%7C+Pipelines;Building+Scalable+%26+Data-Driven+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-🌿 Disfruto colaborar en equipos que valoran la calidad y el aprendizaje mutuo.
-🤝 Me apasiona compartir conocimientos y ayudar a resolver problemas complejos.
-💬 Siempre abierto a conversaciones técnicas y nuevos retos profesionales.
+> **Engineering Philosophy:** I don't just write code; I design systems that solve business bottlenecks. Whether it's architecting a resilient microservice ecosystem or orchestrating high-volume data pipelines, my focus is on **impact, scalability, and clean architecture**.
 
-Fuera del mundo tech, valoro la curiosidad, la disciplina y el crecimiento constante como base para alcanzar metas.
+---
 
-<p>📬 Contáctame en: <a href="mailto:navasparejo14@hotmail.com" style="color:#4CAF50; text-decoration:none; font-weight:bold;">navasparejo14@gmail.com</a></p>
+## 💼 Professional Impact
 
+**Automation Trainee @ EY (Ernst & Young)**
+> *Streamlined internal enterprise workflows and optimized complex database queries, significantly reducing manual overhead and improving operational efficiency using Appian and SQL.*
 
-# 💻Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### 🚀 Frameworks & Libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+## 🔀 Dual Expertise Showcase
 
-# 🧰 Technologies & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![STS](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 💾 1. Data Engineering & Analytics
+*Transforming raw, unstructured data into reliable, actionable business assets.*
 
-# 💾 Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<table border="1" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h4><a href="https://github.com/Niltra/data-engineering-zoomcamp">🌟 Data Engineering Pipelines (DataTalks Zoomcamp)</a></h4>
+      <p><b>The Challenge:</b> Ingesting, processing, and storing massive datasets efficiently without bottlenecks or data loss.</p>
+      <p><b>The Architecture:</b> End-to-end automated data pipelines using Dockerized environments, orchestrating ETL/ELT processes into Data Lakes and Warehouses.</p>
+      <p><b>The Impact:</b> Automates data ingestion at scale, eliminating manual extraction overhead and ensuring highly available, clean data for analytics.</p>
+    </td>
+    <td width="30%" valign="top">
+      <b>Data Stack:</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
+### ⚙️ 2. Backend Development
+*Building the secure, scalable engines and APIs that power modern applications.*
 
-# Connect with me 🤝
-<a href="https://www.linkedin.com/in/david-navas-a85a62309">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<table border="1" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h4><a href="#">🌟 Scalable REST API & Microservices</a></h4>
+      <p><i>(Añade aquí el enlace a tu mejor repositorio de Java/Backend)</i></p>
+      <p><b>The Challenge:</b> Designing decoupled backend systems capable of handling concurrent requests securely and efficiently.</p>
+      <p><b>The Architecture:</b> Clean Architecture utilizing Spring Boot for robust business logic, secured via Spring Security, and prepared for asynchronous communication.</p>
+      <p><b>The Impact:</b> Reduces system coupling and optimizes API response times, providing a seamless and secure experience for end-users.</p>
+    </td>
+    <td width="30%" valign="top">
+      <b>Backend Stack:</b><br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Consistency & Analytics
+
+<p align="center">
+  <a href="https://github.com/Niltra">
+    <img src="https://github-readme-stats.vercel.app/api?username=Niltra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Niltra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niltra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+---
+
+## 🏆 Verified Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Oracle-SQL_Bootcamp-blue?style=for-the-badge" height="30"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Google-Cybersecurity-green?style=for-the-badge" height="30"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Cisco-CCST_Cybersecurity-lightgrey?style=for-the-badge" height="30"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="TU_ENLACE_A_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:navasparejo14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
