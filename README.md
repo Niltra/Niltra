@@ -22,12 +22,12 @@ I treat code as a tool to solve business bottlenecks. My focus is on **Clean Arc
 
 #### 💾 1. Data Engineering: Scalable Pipelines
 **[Data Engineering Pipelines (DataTalks Zoomcamp)](https://github.com/Niltra/data-engineering-zoomcamp)**
-> **Architecture:** Dockerized end-to-end data pipelines orchestrating ETL/ELT workflows into Data Lakes and Warehouses.
-> **Impact:** Automates massive dataset ingestion, eliminating manual overhead and providing highly available, clean data for business analytics.
+> **Architecture:** Containerized ETL/ELT pipelines orchestrated with **Kestra**. Ingestion via **dltHub**, streaming with **Kafka**, and batch processing with **Apache Spark**. 
+> **Impact:** Automates dataset ingestion into **BigQuery** Data Warehouses, applying Analytics Engineering best practices with **dbt** for clean, actionable business data.
 
 #### ⚙️ 2. Backend Development: Resilient Microservices
 **[SafeBank - Core REST API & Microservices](https://github.com/Niltra/SafeBank)**
-> **Architecture:** Clean Architecture implemented with Spring Boot, secured via Spring Security, and prepared for decoupled event-driven communication.
+> **Architecture:** Clean Architecture implemented with Spring Boot, secured via Spring Security, caching with Redis, and prepared for decoupled event-driven communication.
 > **Impact:** Reduces system coupling, ensures high availability, and optimizes API response times for seamless end-user experiences. 
 
 ---
@@ -36,7 +36,9 @@ I treat code as a tool to solve business bottlenecks. My focus is on **Clean Arc
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,python,postgres,mongodb,docker,git,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,redis,postgres,mongodb,linux,bash,git&perline=10" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,docker,kafka,gcp,aws,kubernetes,terraform,elasticsearch&perline=8" />
   </a>
 </p>
 
@@ -45,8 +47,8 @@ I treat code as a tool to solve business bottlenecks. My focus is on **Clean Arc
 ### 📊 Performance & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niltra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niltra&theme=tokyonight&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Niltra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niltra&theme=tokyonight&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff&v=1" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
